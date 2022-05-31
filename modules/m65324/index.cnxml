@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Introduction to Sociology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m65324</md:content-id>
+  <md:title>Introduction to Sociology</md:title>
+  <md:abstract/>
+  <md:uuid>1dfcf6da-ddc6-455c-b8df-9ef769f43ea0</md:uuid>
+</metadata>
+
+<content>
+<figure id="fs-idm1598949584" class="splash">
+  	<media id="fs-idm370031760" alt="Insert Alt Text">
+    	<image mime-type="image/jpeg" src="../../media/splash.jpg"/>
+  	</media>
+  		<caption>Sociologists study how society affects people and how people affect society. (Photo courtesy of Diego Torres Silvestre/flickr)</caption>
+	</figure><section id="eip-301"><title>Introduction to Sociology</title><para id="eip-960">
+We all belong to many groups; you’re a member of your sociology class, and you're a member of your family; you may belong to a political party, sports team, or the crowd watching a sporting event; you’re a citizen of your country, and you're a part of a generation. You may have a somewhat different role in each group and feel differently in each.
+</para><para id="eip-715">Groups vary in their sizes and formalities, as well as in the levels of attachment between group members, among other things. Within a large group, smaller groups may exist, and each group may behave differently.</para><para id="eip-80">At a rock concert, for example, some may enjoy singing along, others prefer to sit and observe, while still others may join in a mosh pit or try crowd surfing. Why do we feel and act differently in different types of social situations? Why might people of a single group exhibit different behaviors in the same situation? Why might people acting similarly not feel connected to others exhibiting the same behavior? These are some of the many questions sociologists ask as they study people and societies.</para>
+</section><section id="eip-533"><title>Math Adventure</title><equation id="eip-432"><m:math><m:msub><m:mi>A</m:mi><m:mi>i</m:mi></m:msub>
+<m:mo>=</m:mo>
+<m:mi>y</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>(</m:mo><m:msub><m:mrow><m:mover><m:mi>t</m:mi><m:mo>−</m:mo></m:mover></m:mrow><m:mi>i</m:mi></m:msub><m:mo>)</m:mo><m:mo>)</m:mo>
+<m:mo>(</m:mo><m:mi>x</m:mi><m:mo>(</m:mo><m:msub><m:mi>t</m:mi><m:mi>i</m:mi></m:msub><m:mo>)</m:mo>
+<m:mo>−</m:mo>
+<m:mi>x</m:mi><m:mo>(</m:mo><m:msub><m:mi>t</m:mi><m:mrow><m:mi>i</m:mi><m:mo>−</m:mo><m:mn>1</m:mn></m:mrow></m:msub><m:mo>)</m:mo><m:mo>)</m:mo>
+</m:math>
+
+</equation><equation id="eip-469"><m:math>
+<m:mtable>
+<m:mtr>
+<m:mtd columnalign="right"><m:mn>2</m:mn><m:mo>(</m:mo><m:mi>x</m:mi></m:mtd>
+<m:mtd><m:mo>+</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>7</m:mn><m:mo>)</m:mo></m:mtd><m:mtd><m:mtext>factors</m:mtext></m:mtd></m:mtr>
+
+
+<m:mtr>
+<m:mtd columnalign="right"><m:mn>2</m:mn><m:mo>⋅</m:mo><m:mi>x</m:mi></m:mtd>
+<m:mtd><m:mo>+</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>2</m:mn><m:mo>⋅</m:mo><m:mn>7</m:mn></m:mtd></m:mtr>
+
+<m:mtr>
+<m:mtd columnalign="right">
+<m:mn>2</m:mn><m:mi>x</m:mi></m:mtd>
+<m:mtd><m:mo>+</m:mo></m:mtd>
+<m:mtd columnalign="left"><m:mn>1</m:mn><m:mn>4</m:mn></m:mtd><m:mtd><m:mtext>products</m:mtext></m:mtd></m:mtr>
+
+
+</m:mtable>
+</m:math></equation></section></content>
+
+</document>
