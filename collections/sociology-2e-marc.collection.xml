@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Marc Jeannott">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col23748</md:content-id>
     <md:title>Sociology 2e (Marc)</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>c57628cc-a71b-456c-a5a8-b2d7bf93348c</md:uuid>
-<md:slug>sociology-2e-marc</md:slug>
-</metadata>
+    <md:slug>sociology-2e-marc</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>An Introduction to Sociology</md:title>
